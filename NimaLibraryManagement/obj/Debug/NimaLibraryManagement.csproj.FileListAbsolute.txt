@@ -1,0 +1,39 @@
+C:\Users\49157\source\repos\NimaLibraryManagement\NimaLibraryManagement\bin\Debug\Library-Database.accdb
+C:\Users\49157\source\repos\NimaLibraryManagement\NimaLibraryManagement\bin\Debug\NimaLibraryManagement.exe.config
+C:\Users\49157\source\repos\NimaLibraryManagement\NimaLibraryManagement\bin\Debug\NimaLibraryManagement.exe
+C:\Users\49157\source\repos\NimaLibraryManagement\NimaLibraryManagement\bin\Debug\NimaLibraryManagement.pdb
+C:\Users\49157\source\repos\NimaLibraryManagement\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.Form1.resources
+C:\Users\49157\source\repos\NimaLibraryManagement\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.frm_Book.resources
+C:\Users\49157\source\repos\NimaLibraryManagement\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.frm_PhotoViewer.resources
+C:\Users\49157\source\repos\NimaLibraryManagement\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.Properties.Resources.resources
+C:\Users\49157\source\repos\NimaLibraryManagement\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.csproj.GenerateResource.cache
+C:\Users\49157\source\repos\NimaLibraryManagement\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\49157\source\repos\NimaLibraryManagement\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.exe
+C:\Users\49157\source\repos\NimaLibraryManagement\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.pdb
+C:\Users\49157\source\repos\NimaLibraryManagement\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.csproj.AssemblyReference.cache
+C:\Users\49157\Source\Repos\Library Management\NimaLibraryManagement\bin\Debug\Library-Database.accdb
+C:\Users\49157\Source\Repos\Library Management\NimaLibraryManagement\bin\Debug\NimaLibraryManagement.exe.config
+C:\Users\49157\Source\Repos\Library Management\NimaLibraryManagement\bin\Debug\NimaLibraryManagement.exe
+C:\Users\49157\Source\Repos\Library Management\NimaLibraryManagement\bin\Debug\NimaLibraryManagement.pdb
+C:\Users\49157\Source\Repos\Library Management\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.csproj.AssemblyReference.cache
+C:\Users\49157\Source\Repos\Library Management\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.Form1.resources
+C:\Users\49157\Source\Repos\Library Management\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.frm_Book.resources
+C:\Users\49157\Source\Repos\Library Management\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.frm_PhotoViewer.resources
+C:\Users\49157\Source\Repos\Library Management\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.Properties.Resources.resources
+C:\Users\49157\Source\Repos\Library Management\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.csproj.GenerateResource.cache
+C:\Users\49157\Source\Repos\Library Management\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\49157\Source\Repos\Library Management\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.exe
+C:\Users\49157\Source\Repos\Library Management\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.pdb
+C:\Users\49157\source\Workspaces\Workspace\Library\NimaLibraryManagement\bin\Debug\Library-Database.accdb
+C:\Users\49157\source\Workspaces\Workspace\Library\NimaLibraryManagement\bin\Debug\NimaLibraryManagement.exe.config
+C:\Users\49157\source\Workspaces\Workspace\Library\NimaLibraryManagement\bin\Debug\NimaLibraryManagement.exe
+C:\Users\49157\source\Workspaces\Workspace\Library\NimaLibraryManagement\bin\Debug\NimaLibraryManagement.pdb
+C:\Users\49157\source\Workspaces\Workspace\Library\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.Form1.resources
+C:\Users\49157\source\Workspaces\Workspace\Library\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.frm_Book.resources
+C:\Users\49157\source\Workspaces\Workspace\Library\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.frm_PhotoViewer.resources
+C:\Users\49157\source\Workspaces\Workspace\Library\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.Properties.Resources.resources
+C:\Users\49157\source\Workspaces\Workspace\Library\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.csproj.GenerateResource.cache
+C:\Users\49157\source\Workspaces\Workspace\Library\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\49157\source\Workspaces\Workspace\Library\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.exe
+C:\Users\49157\source\Workspaces\Workspace\Library\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.pdb
+C:\Users\49157\source\Workspaces\Workspace\Library\NimaLibraryManagement\obj\Debug\NimaLibraryManagement.csproj.AssemblyReference.cache
